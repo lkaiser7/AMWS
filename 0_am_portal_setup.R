@@ -54,6 +54,6 @@ rsconnect::setAccountInfo(name='lauren-r-kaiser',
 deployApp(appDir = "E:/Dropbox/FB_warning_system/avian_malaria_warning", account = 'lauren-r-kaiser')
 
 ##### END AM WARNING SYSTEM PORTAL UPDATE #####
-# app last successfully updated and deployed 06/02/2021
+# app last successfully updated and deployed 09/15/2021
 # https://lauren-r-kaiser.shinyapps.io/avian_malaria_warning/
 # hosted online on server at: avianmalaria.watch 
